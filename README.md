@@ -1,4 +1,4 @@
-# Proyecto final EDA I: Daemon de enrutamiento dinámico para redes mesh de alta disponibilidad en C
+# Daemon de enrutamiento dinámico para redes mesh de alta disponibilidad en C
 
 ## Índice
 
@@ -208,5 +208,3 @@ Para  la mitigación de riesgos
   - Desviación dinámica por congestión
 
 - Comunicación  con Linux
-
-
